@@ -1,0 +1,10 @@
+D:\Files\プログラミング\C#\DailyCounter2\DailyCounter2\bin\Debug\DailyCounter2.exe.config
+D:\Files\プログラミング\C#\DailyCounter2\DailyCounter2\bin\Debug\DailyCounter2.exe
+D:\Files\プログラミング\C#\DailyCounter2\DailyCounter2\bin\Debug\DailyCounter2.pdb
+D:\Files\プログラミング\C#\DailyCounter2\DailyCounter2\obj\Debug\DailyCounter2.csprojAssemblyReference.cache
+D:\Files\プログラミング\C#\DailyCounter2\DailyCounter2\obj\Debug\DailyCounter2.Form1.resources
+D:\Files\プログラミング\C#\DailyCounter2\DailyCounter2\obj\Debug\DailyCounter2.Properties.Resources.resources
+D:\Files\プログラミング\C#\DailyCounter2\DailyCounter2\obj\Debug\DailyCounter2.csproj.GenerateResource.cache
+D:\Files\プログラミング\C#\DailyCounter2\DailyCounter2\obj\Debug\DailyCounter2.csproj.CoreCompileInputs.cache
+D:\Files\プログラミング\C#\DailyCounter2\DailyCounter2\obj\Debug\DailyCounter2.exe
+D:\Files\プログラミング\C#\DailyCounter2\DailyCounter2\obj\Debug\DailyCounter2.pdb
